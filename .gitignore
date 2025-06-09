@@ -1,0 +1,8 @@
+/Scripts/
+/Lib/
+/venv/Lib/
+bin/
+include/
+share/
+site-packages/
+venv/
